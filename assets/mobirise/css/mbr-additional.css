@@ -712,9 +712,16 @@ a {
   color: #661e7a;
 }
 .cid-shKSJyWwON {
-  padding-top: 2rem;
+  padding-top: 3rem;
   padding-bottom: 2rem;
   background-image: url("../../../assets/images/mbr-1920x714.jpg");
+}
+.cid-shKSJyWwON .bg-slack {
+  background: #4a154b;
+  color: #ffffff;
+}
+.cid-shKSJyWwON .bg-slack:hover {
+  background: #230a23;
 }
 .cid-shKSJyWwON .iconfont-wrapper {
   display: inline-block;
@@ -734,6 +741,7 @@ a {
 .cid-shKSJyWwON .mbr-section-title,
 .cid-shKSJyWwON .social-list {
   color: #870a71;
+  text-align: center;
 }
 .cid-shcKXuT8gE {
   padding-top: 2rem;
@@ -782,8 +790,8 @@ a {
   text-align: center;
 }
 .cid-shcMVlKDsJ {
-  padding-top: 3rem;
-  padding-bottom: 2rem;
+  padding-top: 1rem;
+  padding-bottom: 0rem;
   background-image: url("../../../assets/images/a-hrefhttpsbr.freepik.comfotosmulhermulher-foto-criado-por-cookie-studio-br.freepik.coma-2000x1333.jpg");
 }
 .cid-shcMVlKDsJ .image-wrapper {
@@ -817,9 +825,13 @@ a {
 }
 .cid-shcMVlKDsJ P {
   color: #870a71;
-  text-align: left;
+  text-align: right;
 }
 .cid-shcMVlKDsJ .mbr-section-title {
+  color: #870a71;
+  text-align: center;
+}
+.cid-shcMVlKDsJ .mbr-section-subtitle {
   color: #870a71;
 }
 .cid-sjSAbhrDAR {
